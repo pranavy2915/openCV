@@ -1,0 +1,1 @@
+Colour detection project using open cv library of python . on running program 1(6) , separate colour of a given image of a particular shape can be predicted or generated . 
